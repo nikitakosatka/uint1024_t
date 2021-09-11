@@ -6,4 +6,4 @@ set(CMAKE_C_STANDARD 11)
 include_directories(.)
 
 add_executable(uint1024_t
-        main.c)
+        main.c uint.h)
