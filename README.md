@@ -1,6 +1,6 @@
 # uint1024_t
 
-A custom type is implemented for a lawless integer uint1024_t using the arithmetic of numbers in the b-digit number system (arbitrary-precision arithmetic).
+A custom type is implemented for a unsigned integer uint1024_t using the arithmetic of numbers in the b-digit number system (arbitrary-precision arithmetic).
 
 arbitrary-precision arithmetic is a set of software tools (data structures and algorithms) that allow you to work with numbers of much larger quantities than standard data types allow.
 
